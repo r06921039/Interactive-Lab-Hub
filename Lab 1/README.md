@@ -69,6 +69,14 @@ _Goals:_ What are the goals of each player? (e.g., jumping to a tree, opening th
 The interactive device can be anything *except* a computer, a tablet computer or a smart phone, but the main way it interacts needs to be using light.
 **Describe your setting, players, activity and goals here.**
 
+Setting: The interactive device will act like a lamp. The interactions happen in the bedroom when users want to turn on the lamp.
+
+Players: People in the bedroom are involved in the interaction. Mainly one person will interact with the device.
+
+Activity: Whenever the users want to turn on the lamp or turn off the lamp, users interact with the device with their voice. The device will be notified and do the corresponding reaction.
+
+Goals: Turning on the light or turning off the light.
+
 Sketch a storyboard of the interactions you are planning. It does not need to be perfect, but must get across the behavior of the interactive device and the other characters in the scene. 
 **Include a picture of your storyboard here**
 
