@@ -86,6 +86,7 @@ Sketch a storyboard of the interactions you are planning. It does not need to be
 
 Present your idea to the other people in your breakout room. You can just get feedback from one another or you can work together on the other parts of the lab.
 **Summarize feedback you got here.**
+
 Can change the device to detact how tired the user is. For example, if user is tired the light turns darker so that the user know he/she should take a rest.
 
 
