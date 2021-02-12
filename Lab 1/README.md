@@ -70,16 +70,16 @@ The interactive device can be anything *except* a computer, a tablet computer or
 **Describe your setting, players, activity and goals here.**
 
 #### Setting: 
-The interactive device will act like a lamp. The interactions happen in the bedroom when users want to turn on the lamp.
+The interactive device will act like a lamp. The interactive device will detact the users' tiredness. When users are tired, the lamp will turn darker so that the users will know that they need to take a break. The interactions happen in the bedroom when users are studying in front of the desk and using this device as a lamp.
 
 #### Players: 
-People in the bedroom are involved in the interaction. Mainly one person will interact with the device.
+Person in front of the desk involve in the interaction.
 
 #### Activity: 
-Whenever the users want to turn on the lamp or turn off the lamp, users interact with the device with their voice. The device will be notified and do the corresponding reaction.
+Whenever the users felt tired, the interactive device will turn darker so that the users know that they need to take a break.
 
 #### Goals: 
-Turning on the light or turning off the light.
+To make users' life more convenient and healthier. Users can be notified when they need to take a break. 
 
 Sketch a storyboard of the interactions you are planning. It does not need to be perfect, but must get across the behavior of the interactive device and the other characters in the scene. 
 **Include a picture of your storyboard here**
