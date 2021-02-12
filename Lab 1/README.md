@@ -89,8 +89,8 @@ Present your idea to the other people in your breakout room. You can just get fe
 **Summarize feedback you got here.**
 
 #### Feedback:
-Can change the device to detact how tired the user is. For example, if user is tired the light turns darker so that the user know he/she should take a rest.
-
+If the users fall asleep, users won't be notified.
+Can add timer function so it can turn brighter when you need to wake up.
 
 ## Part B. Act out the Interaction
 
