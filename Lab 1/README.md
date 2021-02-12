@@ -101,6 +101,7 @@ Try physically acting out the interaction you planned. For now, you can just pre
 Yes, since the signal that notify the users that they are tired is turning the light darker. Users might not notice.
 
 **Are there new ideas that occur to you or your collaborators that come up from the acting?**
+
 Yes, using the sound as the signal instead of using the light.
 
 
