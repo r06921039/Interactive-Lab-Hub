@@ -140,9 +140,13 @@ Think about the setting of the device: is the environment a place where the devi
 
 **Include sketches of what your device might look like here.**
 
+![Sketch](https://github.com/r06921039/Interactive-Lab-Hub/blob/Spring2021/Lab%201/IDD_LAB1_Sketch1.jpg)
+
 **What concerns or opportunitities are influencing the way you've designed the device to look?**
 
+- Since the device will be placed on the desktop, the device can't be too big. 
 
+- The device should works like a lamp. As a result, the arm of the device should be manipulatable. 
 
 
 ## Part F. Record
