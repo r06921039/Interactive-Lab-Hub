@@ -114,6 +114,10 @@ Code for the "Tinkerbelle" tool, and instructions for setting up the server and 
 We invented this tool for this lab! 
 **Give us feedback on Tinkerbelle.**
 
+- Connection sometimes doesn't work.
+
+- It is awesome overall.
+
 ## Part D. Wizard the device
 Take a little time to set up the wizarding set-up that allows for someone to remotely control the device while someone acts with it. Hint: You can use Zoom to record videos, and you can pin someone’s video feed if that is the scene which you want to record. 
 
@@ -139,12 +143,18 @@ Think about the setting of the device: is the environment a place where the devi
 **What concerns or opportunitities are influencing the way you've designed the device to look?**
 
 
+
+
 ## Part F. Record
 
 **Take a video of your prototyped interaction.**
 
+![Prototyped video](https://github.com/r06921039/Interactive-Lab-Hub/blob/Spring2021/Lab%201/IDD_LAB1_PartF.mp4)
+
 **Please indicate anyone you collaborated with on this Lab.**
 Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
+
+**Justin Liu, Ting-Yu (Angus) Lin, Kae-Jer (Mike) Cho**
 
 # Staging Interaction, Part 2 
 
