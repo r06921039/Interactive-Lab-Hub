@@ -199,28 +199,14 @@ _Goals:_ What are the goals of each player? (e.g., jumping to a tree, opening th
 The interactive device can be anything *except* a computer, a tablet computer or a smart phone, but the main way it interacts needs to be using light.
 **Describe your setting, players, activity and goals here.**
 
-#### Setting: 
-The interactive device will act like a lamp. The interactive device will detact the users' tiredness. When users are tired, the lamp will turn darker so that the users will know that they need to take a break. The interactions happen in the bedroom when users are studying in front of the desk and using this device as a lamp.
-
-#### Players: 
-Person in front of the desk involve in the interaction.
-
-#### Activity: 
-Whenever the users felt tired, the interactive device will turn darker so that the users know that they need to take a break.
-
-#### Goals: 
-To make users' life more convenient and healthier. Users can be notified when they need to take a break. 
 
 Sketch a storyboard of the interactions you are planning. It does not need to be perfect, but must get across the behavior of the interactive device and the other characters in the scene. 
 **Include a picture of your storyboard here**
-![Storyboard](https://github.com/r06921039/Interactive-Lab-Hub/blob/Spring2021/Lab%201/storyboard_part2.jpg)
 
 Present your idea to the other people in your breakout room. You can just get feedback from one another or you can work together on the other parts of the lab.
 **Summarize feedback you got here.**
 
 #### Feedback:
-If the users fall asleep, users won't be notified.
-Can add timer function so it can turn brighter when you need to wake up.
 
 ## Part B. Act out the Interaction
 
@@ -228,11 +214,9 @@ Try physically acting out the interaction you planned. For now, you can just pre
 
 **Are there things that seemed better on paper than acted out?**
 
-Yes, since the signal that notify the users that they are tired is turning the light darker. Users might not notice.
 
 **Are there new ideas that occur to you or your collaborators that come up from the acting?**
 
-Yes, using the sound as the signal instead of using the light.
 
 
 ## Part C. Prototype the device
@@ -244,23 +228,15 @@ Code for the "Tinkerbelle" tool, and instructions for setting up the server and 
 We invented this tool for this lab! 
 **Give us feedback on Tinkerbelle.**
 
-- Connection sometimes doesn't work.
-
-- It is awesome overall.
 
 ## Part D. Wizard the device
 Take a little time to set up the wizarding set-up that allows for someone to remotely control the device while someone acts with it. Hint: You can use Zoom to record videos, and you can pin someone’s video feed if that is the scene which you want to record. 
 
 **Include your first attempts at recording the set-up video here.**
 
-![Set-up video](https://github.com/r06921039/Interactive-Lab-Hub/blob/Spring2021/Lab%201/IDD_LAB1_PartD_2.mp4)
-
 Now, hange the goal within the same setting, and update the interaction with the paper prototype. 
 
 **Show the follow-up work here.**
-
-![Follow-up video](https://github.com/r06921039/Interactive-Lab-Hub/blob/Spring2021/Lab%201/IDD_LAB1_PartD_2.mp4)
-
 
 ## Part E. Costume the device
 
@@ -270,20 +246,12 @@ Think about the setting of the device: is the environment a place where the devi
 
 **Include sketches of what your device might look like here.**
 
-![Sketch](https://github.com/r06921039/Interactive-Lab-Hub/blob/Spring2021/Lab%201/IDD_LAB1_Sketch1.jpg)
-
 **What concerns or opportunitities are influencing the way you've designed the device to look?**
-
-- Since the device will be placed on the desktop, the device can't be too big. 
-
-- The device should works like a lamp. As a result, the arm of the device should be manipulatable. 
-
 
 ## Part F. Record
 
 **Take a video of your prototyped interaction.**
 
-![Prototyped video](https://github.com/r06921039/Interactive-Lab-Hub/blob/Spring2021/Lab%201/IDD_LAB1_PartF.mp4)
 
 **Please indicate anyone you collaborated with on this Lab.**
 Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
