@@ -171,6 +171,10 @@ You will be assigned three partners from another group. Go to their github pages
 
 **Summarize feedback from your partners here.**
 
+Justin Liu: My guess for the scene: Lamp that turns off when you need to rest? Seems like quite a useful idea! Only question is how is the lamp determining the tiredness of the person - Cameras, heart rate monitor, etc.?
+
+Kae-Jer (Mike) Cho: My guess for the scene: a smart lamp! pretty cool idea that the lamp knows that you are tired and remind you to take rest! my question is how do you detect the user is tired? maybe need a camera? and maybe you can add some sounds to remind the user to take a rest!
+
 ## Make it your own
 
 Do last week’s assignment again, but this time: 
