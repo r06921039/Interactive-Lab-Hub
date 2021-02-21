@@ -236,9 +236,13 @@ Take a little time to set up the wizarding set-up that allows for someone to rem
 
 **Include your first attempts at recording the set-up video here.**
 
+![Set-up video](https://github.com/r06921039/Interactive-Lab-Hub/blob/Spring2021/Lab%201/IDD_LAB1_Part2_Setup.mp4)
+
 Now, hange the goal within the same setting, and update the interaction with the paper prototype. 
 
 **Show the follow-up work here.**
+
+![Follow-up video](https://github.com/r06921039/Interactive-Lab-Hub/blob/Spring2021/Lab%201/IDD_LAB1_Part2_Followup.mp4)
 
 ## Part E. Costume the device
 
@@ -254,6 +258,7 @@ Think about the setting of the device: is the environment a place where the devi
 
 **Take a video of your prototyped interaction.**
 
+![Prototype video](https://github.com/r06921039/Interactive-Lab-Hub/blob/Spring2021/Lab%201/IDD_LAB1_Part2_Record.mp4)
 
 **Please indicate anyone you collaborated with on this Lab.**
 Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
