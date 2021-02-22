@@ -252,7 +252,11 @@ Think about the setting of the device: is the environment a place where the devi
 
 **Include sketches of what your device might look like here.**
 
+![Sketch](https://github.com/r06921039/Interactive-Lab-Hub/blob/Spring2021/Lab%201/IDD_LAB1_Sketch3.jpg)
+
 **What concerns or opportunitities are influencing the way you've designed the device to look?**
+
+The interactive device should not interfere the users playing golf. As a result, the device was designed to put on the stick.
 
 ## Part F. Record
 
