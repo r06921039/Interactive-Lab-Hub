@@ -199,6 +199,18 @@ _Goals:_ What are the goals of each player? (e.g., jumping to a tree, opening th
 The interactive device can be anything *except* a computer, a tablet computer or a smart phone, but the main way it interacts needs to be using light.
 **Describe your setting, players, activity and goals here.**
 
+#### Setting: 
+The interactive device will act like a indicator. The interactive device will detact the track. When users are aiming off the track, the indicator will turn red and tell the users which way they should aim. When the users aim on the right way, the indicator will turn green. The interactions happen in the golf course when users are playing golf.
+
+#### Players: 
+Person who is using the golf club.
+
+#### Activity: 
+Whenever the users aimed on the wrong way, the interactive device will turn red and let the users know which way they should aim.
+
+#### Goals: 
+To make users' life more convenient and easier. Users can play golf better. 
+
 
 Sketch a storyboard of the interactions you are planning. It does not need to be perfect, but must get across the behavior of the interactive device and the other characters in the scene. 
 **Include a picture of your storyboard here**
@@ -208,6 +220,8 @@ Sketch a storyboard of the interactions you are planning. It does not need to be
 Present your idea to the other people in your breakout room. You can just get feedback from one another or you can work together on the other parts of the lab.
 **Summarize feedback you got here.**
 
+It can be really useful.
+
 #### Feedback:
 
 ## Part B. Act out the Interaction
@@ -216,8 +230,14 @@ Try physically acting out the interaction you planned. For now, you can just pre
 
 **Are there things that seemed better on paper than acted out?**
 
+- Ideally the idicator should be at the head of the putter.
+
+- The indicator can't be put on the head of the putter in reality, since it will interfere users playing golf.
+
 
 **Are there new ideas that occur to you or your collaborators that come up from the acting?**
+
+- None
 
 
 
@@ -230,6 +250,9 @@ Code for the "Tinkerbelle" tool, and instructions for setting up the server and 
 We invented this tool for this lab! 
 **Give us feedback on Tinkerbelle.**
 
+- Connection sometimes doesn't work.
+
+- It is awesome overall.
 
 ## Part D. Wizard the device
 Take a little time to set up the wizarding set-up that allows for someone to remotely control the device while someone acts with it. Hint: You can use Zoom to record videos, and you can pin someone’s video feed if that is the scene which you want to record. 
@@ -267,4 +290,4 @@ The interactive device should not interfere the users playing golf. As a result,
 **Please indicate anyone you collaborated with on this Lab.**
 Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
 
-**Justin Liu, Ting-Yu (Angus) Lin, Kae-Jer (Mike) Cho**
+**Justin Liu, Ting-Yu (Angus) Lin, Kae-Jer (Mike) Cho, Yen-Hao (Eric) Chen, Cheng-Wei Hu**
