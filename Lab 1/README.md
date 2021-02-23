@@ -112,6 +112,9 @@ You will be using your smartphone as a stand-in for the device you are prototypi
 Code for the "Tinkerbelle" tool, and instructions for setting up the server and your phone are [here](https://github.com/FAR-Lab/tinkerbelle).
 
 We invented this tool for this lab! 
+
+If you run into technical issues with this tool, you can also use a light switch, dimmer, etc. that you can can manually or remotely control.
+
 **Give us feedback on Tinkerbelle.**
 
 - Connection sometimes doesn't work.
@@ -291,3 +294,4 @@ The interactive device should not interfere the users playing golf. As a result,
 Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
 
 **Justin Liu, Ting-Yu (Angus) Lin, Kae-Jer (Mike) Cho, Yen-Hao (Eric) Chen, Cheng-Wei Hu**
+**Document everything here. (Particularly we'd like to see the storyboard and video, although photos of the prototype are also great.)**
