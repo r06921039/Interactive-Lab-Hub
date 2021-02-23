@@ -291,3 +291,4 @@ The interactive device should not interfere the users playing golf. As a result,
 Be generous in acknowledging their contributions! And also recognizing any other influences (e.g. from YouTube, Github, Twitter) that informed your design. 
 
 **Justin Liu, Ting-Yu (Angus) Lin, Kae-Jer (Mike) Cho, Yen-Hao (Eric) Chen, Cheng-Wei Hu**
+**Document everything here. (Particularly we'd like to see the storyboard and video, although photos of the prototype are also great.)**
