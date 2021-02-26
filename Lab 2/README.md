@@ -175,5 +175,5 @@ After that git will ask you to login to your github account to upload.
 ## Part G. 
 ## Sketch and brainstorm further interactions and features you would like for your clock for Part 2.
 
-
+[Sketch](https://github.com/r06921039/Interactive-Lab-Hub/blob/Spring2021/Lab%202/Plan.HEIC)
 
