@@ -194,5 +194,10 @@ You are permitted (but not required) to work in groups and share a turn in; you 
 
 =======
 ![Sketch](https://github.com/r06921039/Interactive-Lab-Hub/blob/Spring2021/Lab%202/Plan.jpg)
+
+## Part F. 
+## Make a short video of your modified barebones PiClock
+
+**Take a video of your PiClock.**
 [Video](https://github.com/r06921039/Interactive-Lab-Hub/blob/Spring2021/Lab%202/Lab2_part2_record.mov)
 
