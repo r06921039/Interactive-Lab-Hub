@@ -68,9 +68,13 @@ Create a system that runs on the Raspberry Pi that takes in one or more sensors 
 
 1. Sketch ideas for what you'll work on in lab on Wednesday.
 
+![Sketch](https://github.com/r06921039/Interactive-Lab-Hub/blob/Spring2021/Lab%203/sketch.jpg)
+
 ## Share your idea sketches with Zoom Room mates and get feedback
 
 *what was the feedback? Who did it come from?*
+
+It was really useful, I don't have to press any button. By Justin Liu
 
 ## Prototype your system
 
@@ -94,6 +98,7 @@ The system should:
 ![Process_4](https://github.com/r06921039/Interactive-Lab-Hub/blob/Spring2021/Lab%203/Process_4.jpg)
 
 *Include videos or screencaptures of both the system and the controller.*
+
 [Video_prototype](https://github.com/r06921039/Interactive-Lab-Hub/blob/Spring2021/Lab%203/Prototype.mov)
 
 ## Test the system
