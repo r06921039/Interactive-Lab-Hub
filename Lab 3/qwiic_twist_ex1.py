@@ -96,6 +96,8 @@ def runExample():
 
     pygame.init()
     screen = pygame.display.set_mode((400,400))
+    weather = False
+    Time = False
 
     while True:
         draw.rectangle((0, 0, width, height), outline=0, fill=0)
@@ -109,26 +111,34 @@ def runExample():
                 if event.key == pygame.K_r:
                     myTwist.set_color(255, 10, 10)
                 if event.key == pygame.K_w:
-                    font = getFont(18)
-                    offset_x = 1
-                    offset_y = 1
-                    for i in range(10):
-                        draw.text((x[i], y[i]), "❄", font=font, fill="#0000FF")
-                        x[i] = x[i] + offset_x if x[i] + offset_x < width else x[i] + offset_x - width
-                        y[i] = y[i] + offset_y if y[i] + offset_y < height else y[i] + offset_y - height
+                    weather = True
+                    Time = False
                 if event.key == pygame.K_t:
-                    date = strftime("%m/%d/%Y")
-                    timer = strftime("%H:%M:%S")
-                    font = getFont(44)
+                    Time = True
+                    weather = False
                     
-                    x_1 = width/2 - font.getsize(timer)[0]/2
-                    y_1 = height/2 - font.getsize(timer)[1]/2
-                    draw.text((x_1, y_1), timer, font=font, fill="#FFFFFF")
+        if weather:
+            font = getFont(18)
+            offset_x = 1
+            offset_y = 1
+            for i in range(10):
+                draw.text((x[i], y[i]), "❄", font=font, fill="#0000FF")
+                x[i] = x[i] + offset_x if x[i] + offset_x < width else x[i] + offset_x - width
+                y[i] = y[i] + offset_y if y[i] + offset_y < height else y[i] + offset_y - height
+        elif Time:
+            date = strftime("%m/%d/%Y")
+            timer = strftime("%H:%M:%S")
+            font = getFont(44)
+                    
+            x_1 = width/2 - font.getsize(timer)[0]/2
+            y_1 = height/2 - font.getsize(timer)[1]/2
+            draw.text((x_1, y_1), timer, font=font, fill="#FFFFFF")
 
-                    font = getFont(18)
-                    x_2 = width/2 - font.getsize(date)[0]/2
-                    y_1 -= font.getsize(date)[1]
-                    draw.text((x_2, y_1), date, font=font, fill="#FFFFFF")
+            font = getFont(18)
+            x_2 = width/2 - font.getsize(date)[0]/2
+            y_1 -= font.getsize(date)[1]
+            draw.text((x_2, y_1), date, font=font, fill="#FFFFFF")
+
         disp.image(image, rotation)
         time.sleep(0.001)
 
