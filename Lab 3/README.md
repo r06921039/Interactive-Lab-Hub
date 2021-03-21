@@ -81,7 +81,20 @@ The system should:
 
 *Document how the system works*
 
+- First the light shows red to indicate that the device is ready.
+![Process_1](https://github.com/r06921039/Interactive-Lab-Hub/blob/Spring2021/Lab%203/Process_1.jpg)
+
+- Second when user says "Hi, Rasberrypi!" the light turns green.
+![Process_2](https://github.com/r06921039/Interactive-Lab-Hub/blob/Spring2021/Lab%203/Process_2.jpg)
+
+- Third if the user says "Show me the weather." The screen on the device will show the weather.
+![Process_3](https://github.com/r06921039/Interactive-Lab-Hub/blob/Spring2021/Lab%203/Process_3.jpg)
+
+- Forth if the user says "Show me the time." The screen on the device will show the time.
+![Process_4](https://github.com/r06921039/Interactive-Lab-Hub/blob/Spring2021/Lab%203/Process_4.jpg)
+
 *Include videos or screencaptures of both the system and the controller.*
+[Video_prototype](https://github.com/r06921039/Interactive-Lab-Hub/blob/Spring2021/Lab%203/Prototype.mov)
 
 ## Test the system
 Try to get at least two people to interact with your system. (Ideally, you would inform them that there is a wizard _after_ the interaction, but we recognize that can be hard.)
