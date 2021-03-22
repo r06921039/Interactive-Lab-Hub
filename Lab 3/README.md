@@ -101,24 +101,28 @@ The system should:
 
 [Video_prototype](https://github.com/r06921039/Interactive-Lab-Hub/blob/Spring2021/Lab%203/Prototype.mov)
 
+The controller is the python script in the raspberrypi.
+
 ## Test the system
 Try to get at least two people to interact with your system. (Ideally, you would inform them that there is a wizard _after_ the interaction, but we recognize that can be hard.)
+
+I got two people to test the system - Justin Liu, Kae-Jer (Mike) Cho
 
 Answer the following:
 
 ### What worked well about the system and what didn't?
-*your answer here*
+*Use your voice to control the device works really well, especially the light indicating the device is listening, however it would be great if the device can speak the weather or time out loud.*
 
 ### What worked well about the controller and what didn't?
 
-*your answer here*
+*The controller responds immediately, however it needs the person in the same room to control.*
 
 ### What lessons can you take away from the WoZ interactions for designing a more autonomous version of the system?
 
-*your answer here*
+*Let the device interact more with the user makes the device more attrative. Using the controller to controll will limit the possibilities of the interaction of the device.*
 
 
 ### How could you use your system to create a dataset of interaction? What other sensing modalities would make sense to capture?
 
-*your answer here*
+*Add the weather API so that it can report the weather in real time. Use camera to sense users action. If the user is going to go outside, the device can report the time, temperature and weather immediately.*
 
