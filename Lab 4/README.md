@@ -127,12 +127,22 @@ Here is an example:
 
 
 Make a paper display for your project that communicates the state of the Pi and a sensor. Ideally you should design it so that you can slide the Pi out to work on the circuit or programming, and then slide it back in and reattach a few wires to be back in operation.
- 
+
+### The Idea
+
+When you want to play music and connect your phone to the speaker, it is sometimes possible to fail to connect. What if there were a device that has a good speaker and can play music simultaneously?
+
 **a. Document the design for your paper display.** (e.g. if you had to make it again from scratch, what information would you need?). Include interim iterations (or at least tell us about them).
+
+For this lab, I decided to create a mp3 player with a great speaker. The screen will show the time at first, when triggered the play button, it would start playing the music.
 
 **b. Make a video of your paper display in action.**
 
+The video was shown in here [Video](https://drive.google.com/file/d/1BTuLO7MB6B6tfY2Ui6qGmlLI3Rn1FCsv/view?usp=sharing)
+
 **c. Explain the rationale for the design.** (e.g. Does it need to be a certain size or form or need to be able to be seen from a certain distance?)
+
+The size of the box should be large enough to contain a speaker but not too large so that the user can carry the device. The button should be big enough that the users can press it easily.
 
 ### Part D
 ### Materiality
@@ -143,13 +153,27 @@ Design a system with the Pi and anything from your kit with a focus on form, and
 
 **a. document the material prototype.** Include candidates that were considered even if they were set aside later.
 
+Various methods could be used to build this prototype including glass, cardboard, and paper.
+
 **b. explain the selection.**
+
+- **Glass** Using glass to build the device would be really cool but would take too much cost and time.
+- **Cardboard** Using cardboard is the most reasonable way to make it since it is reliable and won't take too much time and effort.
+- **Paper** Using paper is the easiest way to do it but not reliable.
 
 ### Part 2.
 
 Following exploration and reflection from Part 1, complete the "looks like," "works like" and "acts like" prototypes for your design.
 
 Reiterating:
+
+### Looks like:
+
+### Works like:
+
+### Acts like:
+
+
 ### Deliverables for this lab are: 
 1. Sketches/photos of device designs
 1. "Looks like" prototypes: show us what how the device should look, feel, sit, weigh, etc.
