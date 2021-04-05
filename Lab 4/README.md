@@ -169,9 +169,15 @@ Reiterating:
 
 ### Looks like:
 
+![Looks like inside](https://github.com/r06921039/Interactive-Lab-Hub/blob/Spring2021/Lab%204/Looks_like_inside.jpg)
+
 ### Works like:
 
+![Looks like inside](https://github.com/r06921039/Interactive-Lab-Hub/blob/Spring2021/Lab%204/Works_like.jpg)
+
 ### Acts like:
+
+The device acts like ([Google drive link](https://drive.google.com/file/d/1ZdO-zSJvzUknwVB0WIyxyljLs0h1SzXO/view?usp=sharing))
 
 
 ### Deliverables for this lab are: 
