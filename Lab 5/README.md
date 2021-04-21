@@ -121,7 +121,9 @@ This can be as simple as the boat detector earlier.
 Try out different interactions outputs and inputs.
 **Describe and detail the interaction, as well as your experimentation.**
 
-A facial expression detection system that could be implemented in the place where the weed is illegal and make polices more easily classify whether the person smokes weed or not. When drivers get through a DUI checkpoint, the polices can then simply use this system to test drivers for intoxication. This could speed up and raise the accuracy of the process of distinguishing the driver need to do the test or not. Perhaps this could be extended to detect drunk drivers. 
+A facial expression detection system that could be implemented in the place where the weed is illegal and make polices more easily classify whether the person smokes weed or not. When drivers get through a DUI checkpoint, the polices can then simply use this system to test drivers for intoxication. This could speed up and raise the accuracy of the process of distinguishing the driver need to do the test or not. Perhaps this could be extended to detect drunk drivers.
+
+![Model](https://github.com/r06921039/Interactive-Lab-Hub/blob/Spring2021/Lab%205/Lab5_model.png)
 
 ### Part C
 ### Test the interaction prototype
