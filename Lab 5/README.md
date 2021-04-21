@@ -121,21 +121,48 @@ This can be as simple as the boat detector earlier.
 Try out different interactions outputs and inputs.
 **Describe and detail the interaction, as well as your experimentation.**
 
+A facial expression detection system that could be implemented in the place where the weed is illegal and make polices more easily classify whether the person smokes weed or not. When drivers get through a DUI checkpoint, the polices can then simply use this system to test drivers for intoxication. This could speed up and raise the accuracy of the process of distinguishing the driver need to do the test or not. Perhaps this could be extended to detect drunk drivers. 
+
 ### Part C
 ### Test the interaction prototype
 
 Now flight test your interactive prototype and **note your observations**:
 For example:
 1. When does it what it is supposed to do?
-1. When does it fail?
-1. When it fails, why does it fail?
-1. Based on the behavior you have seen, what other scenarios could cause problems?
+   
+   When the camera detect the facial expression with exhilarated, the model will classify as weed. Otherwise the model will classify as not weed.
+   
+2. When does it fail?
+
+   The model has a hard time detecting facial expression when the face is far away from the camera.
+
+3. When it fails, why does it fail?
+
+   The failures are likely due to the training data not covering a wide enough variety of scenarios such as different background colors, face types, lighting conditions, etc.
+
+4. Based on the behavior you have seen, what other scenarios could cause problems?
+
+   Perhaps it may not detect facial expression if another person were in front of the camera or if the background changes then it may also have trouble detecting facial expression or may mistake variances in lighting as a gesture.
 
 **Think about someone using the system. Describe how you think this will work.**
 1. Are they aware of the uncertainties in the system?
-1. How bad would they be impacted by a miss classification?
-1. How could change your interactive system to address this?
-1. Are there optimizations you can try to do on your sense-making algorithm.
+
+   They would not be. If a system like this were implemented in a product like DUI checkpoint, people would likely expect it to work flawlessly.
+
+2. How bad would they be impacted by a miss classification?
+
+   A miss classification would not impact him/her much unless they were in a hurry. A miss classification would cause them do the test for intoxication. 
+
+3. How could change your interactive system to address this?
+
+   Include more training data to make it more accurate. Allow people to upload their own training data.
+
+4. Are there optimizations you can try to do on your sense-making algorithm.
+
+   Use more training data:
+
+   - Record friends making different facial expression
+   - Find different backgrounds and lighting conditions for training
 
 ### Part D
 ### Characterize your own Observant system
@@ -152,9 +179,44 @@ During the lecture, we mentioned questions to help characterize a material:
 
 **Include a short video demonstrating the answers to these questions.**
 
+What can you use X for?
+
+Detect the facial expression and make the polices more easily classify whether the person smokes weed or not.
+
+What is a good environment for X?
+
+A controlled environment where the video resolution is great (only one person's facial expression at a time).
+
+What is a bad environment for X?
+
+Somewhere with lots of noisy data: many people in the car, bad lighting with lots of variance, or poor video quality in general.
+
+When will X break?
+
+In any of the bad environments mentioned above; if the facial expression aren't expected by the trained model.
+
+When it breaks how will X break?
+
+It will misclassify the facial expression.
+
+What are other properties/behaviors of X?
+
+It can be extended to detect whether the drivers are drunk or not.
+
+How does X feel?
+
+Awesome!
+
+[Demo google drive link](https://drive.google.com/file/d/1I7LPYcNH7sCbCTE8wg2k3uhTA0u4k2Sz/view?usp=sharing)
+
 ### Part 2.
 
 Following exploration and reflection from Part 1, finish building your interactive system, and demonstrate it in use with a video.
 
 **Include a short video demonstrating the finished result.**
+
+In order to test whether the model works or not, tester is different from the trainer.
+
+[Demo google drive link](https://drive.google.com/file/d/1I7LPYcNH7sCbCTE8wg2k3uhTA0u4k2Sz/view?usp=sharing)
+
 
