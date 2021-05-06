@@ -87,10 +87,34 @@ Find at least one class (more are okay) partner, and design a distributed applic
 
 **1. Explain your design** For example, if you made a remote controlled banana piano, explain why anyone would want such a thing.
 
+For this lab, we are doing a remote interactive device that can allow two users to play basketball together and record their scores simultaneously on two Raspberry Pi. This device will use camera to see whether a basketball is going to a basket successfully and update the score board on the Raspberry Pi screen for both players.
+
+This device can be used for two player who would like to play basketball remotely and have a shooting competition together. 
+
 **2. Diagram the architecture of the system.** Be clear to document where input, output and computation occur, and label all parts and connections. For example, where is the banana, who is the banana player, where does the sound get played, and who is listening to the banana music?
+
+![diagram](imgs/diagram.png)
+
+The two players can each use their own raspberry pi and play the basketball. There's a camera attached to the Raspberry Pi that tells whether the basketball is going into the basket successfully. After the camera received the visual input and determine whether there's a score added, it will send the score over MQTT under the specific topic (`IDD/Illusinate/playerX`). The path here will be determined by which player is using the Raspberry Pi. 
+
+For example, if the player 1 is using that Raspberry Pi, then the path will be `IDD/Illusinate/player1`. After the score of player 1 is updated in the MQTT database, the Raspberry Pi of the player 2 will receive the update in the database and display accordingly on its screen. Therefore, the two player's Raspberry Pi will display the synced score of each player.
 
 **3. Build a working prototype of the system.** Do think about the user interface: if someone encountered these bananas, would they know how to interact with them? Should they know what to expect?
 
+The user interface of this remote interactive device is pretty straightforward. We will have the user input the number of players they play (player 1 or player 2). After that, the user will only have to adjust the camera to make it able to see the basket and then play the basketball. The score on the board will be updated automatically.
+
 **4. Document the working prototype in use.** It may be helpful to record a Zoom session where you should the input in one location clearly causing response in another location.
+
+Firstly, when player 1 score the basketball, we make sure both the Raspberry Pi update the score on the score board correctly.
+
+Player 1: [Google Drive Link](https://drive.google.com/file/d/1RaEQDWj1nUlwV3KDRiKFItP90BSxYLxQ/view?usp=sharing)
+
+Secondly, when player 2 score the basketball, we make sure both the Raspberry Pi update the score on the score board correctly.
+
+Player 2: [Google Drive Link](https://drive.google.com/file/d/1_b0PVlv1FgRZhzrqRzNTOabWxNRe-Lly/view?usp=sharing)
+
+Finally, we also make sure that the Raspberry Pi update the score on the score board correctly without any other interaction with that board.
+
+[Google Drive Link](https://drive.google.com/file/d/10tTn2xGhgNC6KjfZB6JYofiecKtaWkm1/view?usp=sharing)
 
 **5. BONUS (Wendy didn't approve this so you should probably ignore it)** get the whole class to run your code and make your distributed system BIGGER.
