@@ -12,24 +12,14 @@ Final Project Documentation due - May 19
 
 
 
-## Objective
+# Status Board
 
-The goal of this final project is for you to have a fully functioning and well-designed interactive device of your own design.
- 
-## Description
-Your project is to design and build an interactive device to suit a specific application of your choosing. 
 
-## Deliverables
-
-1. Documentation of design process
-2. Archive of all code, design patterns, etc. used in the final design. (As with labs, the standard should be that the documentation would allow you to recreate your project if you woke up with amnesia.)
-3. Video of someone using your project (or as safe a version of that as can be managed given social distancing)
-4. Reflections on process (What have you learned or wish you knew at the start?)
-
+Check out the documentation at [Cheng-Wei Hu's repository](https://github.com/HcwXd/Interactive-Lab-Hub/tree/Spring2021/Final%20Project)!
 
 ## Teams
 
-You can and are not required to work in teams. Be clear in documentation who contributed what. The total project contributions should reflect the number of people on the project.
+Work with Cheng-Wei Hu(ch956) and Kae-Jer Cho(kc2225).
 
 ## Examples
 
